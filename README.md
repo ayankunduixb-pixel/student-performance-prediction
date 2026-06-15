@@ -37,3 +37,6 @@ Best model achieved strong predictive performance using Random Forest.
 - More student behavior features
 - Deep Learning models
 - Web deployment
+
+# student-performance-prediction
+student-performance-prediction
