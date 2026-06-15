@@ -47,6 +47,10 @@ Target:
   <img src="src/Dashboard.png" alt="Dashboard Preview" width="900">
 </p>
 
+<p align="center">
+  <img src="src/Dashboard_2.png" alt="Dashboard Preview" width="900">
+</p>
+
 ## ⚙️ Installation
 
 Clone repository:
