@@ -41,11 +41,11 @@ Target:
 
 ---
 
-## 📷 Dashboard Preview
+<h2>📷 Dashboard Preview</h2>
 
-![Dashboard](images/dashboard.png)
-
----
+<p align="center">
+  <img src="src/dashboard.png" alt="Dashboard Preview" width="900">
+</p>
 
 ## ⚙️ Installation
 
