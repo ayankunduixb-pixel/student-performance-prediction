@@ -1,42 +1,109 @@
-# Student Performance Prediction
+# 🎓 Student Performance Predictor
 
-## Project Overview
-Predicting student math scores using Machine Learning.
+A Machine Learning web application that predicts student math scores based on academic and demographic factors.
 
-## Problem Statement
-Educational institutions need early identification of students at risk of poor academic performance.
+## 🚀 Features
 
-## Dataset
-Students Performance Dataset from Kaggle.
+- Predict student math scores
+- Interactive Streamlit dashboard
+- Real-time predictions
+- User-friendly interface
+- Machine Learning powered
 
-## Technologies Used
+## 📊 Dataset
+
+Students Performance Dataset
+
+Features include:
+
+- Gender
+- Race/Ethnicity
+- Parental Education
+- Lunch Type
+- Test Preparation Course
+- Reading Score
+- Writing Score
+
+Target:
+
+- Math Score
+
+---
+
+## 🛠️ Tech Stack
+
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Scikit-Learn
+- Joblib
+- Streamlit
 
-## Workflow
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## ⚙️ Installation
+
+Clone repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+Move into project:
+
+```bash
+cd Student-Performance-Predictor
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run application:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🤖 Machine Learning Workflow
+
 1. Data Cleaning
-2. EDA
+2. Exploratory Data Analysis
 3. Feature Engineering
 4. Model Training
 5. Model Evaluation
-6. Model Optimization
+6. Hyperparameter Tuning
+7. Deployment
 
-## Models Used
+---
+
+## 📈 Models Used
+
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
 
-## Results
-Best model achieved strong predictive performance using Random Forest.
+---
 
-## Future Improvements
-- More student behavior features
-- Deep Learning models
-- Web deployment
+## 🎯 Future Improvements
 
-# student-performance-prediction
-student-performance-prediction
+- Feature Importance Dashboard
+- Streamlit Cloud Deployment
+- Student Analytics Reports
+- Enhanced Visualizations
+
+---
+
+## 👨‍💻 Author
+
+Ayan Kundu
