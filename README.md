@@ -44,7 +44,7 @@ Target:
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="src/dashboard.png" alt="Dashboard Preview" width="900">
+  <img src="src/Dashboard.png" alt="Dashboard Preview" width="900">
 </p>
 
 ## ⚙️ Installation
